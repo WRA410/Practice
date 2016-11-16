@@ -2,3 +2,5 @@
 For class practice
 
 oh adding new stuff
+
+this might be a fun thing to add
